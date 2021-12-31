@@ -25,7 +25,7 @@ Some key takeaways:
 
 The figure above shows the total fares by city type, broken down by week. The data follows a similar trend as described in the prior section, with weekly fares for Urban areas being the highest, followed by suburban and rural.
 
-![](analysis/TotalFaresBYCityType.png)
+![](Resources/TotalFaresBYCityType.PNG)
 
 The figure above shows the total fare by city type as a line chart. We can easily see the trend here with Urban rides having the highest total fare.
 
